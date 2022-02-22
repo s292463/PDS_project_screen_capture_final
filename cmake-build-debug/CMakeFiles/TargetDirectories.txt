@@ -1,0 +1,3 @@
+/home/ilchrees/Documents/Data/PDS/PDS_screen_capture_linux/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ilchrees/Documents/Data/PDS/PDS_screen_capture_linux/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ilchrees/Documents/Data/PDS/PDS_screen_capture_linux/cmake-build-debug/CMakeFiles/linux_project.dir
